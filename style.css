@@ -1,0 +1,12 @@
+body {
+  background: #FFFFFF;
+}
+.intro {
+  font-family: sans-serif;
+}
+tr.row {
+  background-color: gray;
+}
+#secondparagraph {
+  background-color: green;
+}
